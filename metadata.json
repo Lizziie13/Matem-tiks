@@ -1,0 +1,6 @@
+{
+  "name": "Algebrik - Productos Notables y Factorización",
+  "description": "Aprende y domina productos notables y factorización con ejercicios gamificados, reconocimiento de voz, panel de notas sobre 10 y duelos multijugador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
